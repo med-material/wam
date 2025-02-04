@@ -55,7 +55,6 @@ Assets/StreamingAssets/crashlytics-build.properties
 .vscode/*
 .vsconfig
 
-
 ### VisualStudioCode Patch ###
 # Ignore all local history of files
 .history
