@@ -31,6 +31,11 @@ MonoBehaviour:
   m_RegistryInfoDraft:
     m_Modified: 0
     m_ErrorMessage: 
+<<<<<<< HEAD
     m_UserModificationsInstanceId: -842
     m_OriginalInstanceId: -844
+=======
+    m_UserModificationsInstanceId: -860
+    m_OriginalInstanceId: -862
+>>>>>>> e90f15f (Upgrade Unity 2022.3.50f1 and import itween package)
   m_LoadAssets: 0

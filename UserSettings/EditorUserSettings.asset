@@ -5,6 +5,12 @@ EditorUserSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 4
   m_ConfigSettings:
+<<<<<<< HEAD
+=======
+    RecentlyUsedSceneGuid-0:
+      value: 5a57000454065a5d5e56557146250744124e1b7a2d2d76682c2f1930b6e5353e
+      flags: 0
+>>>>>>> e90f15f (Upgrade Unity 2022.3.50f1 and import itween package)
     vcSharedLogLevel:
       value: 0d5e400f0650
       flags: 0
